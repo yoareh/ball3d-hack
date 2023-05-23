@@ -2,7 +2,7 @@
 
 | Hack | Version | Game Version | Info | Link |
 |--|--|--|--|--|
-| Host Hack | 0.1a | 4.01 | [go](https://github.com/yoareh/ball3d-hack/main/README.md#host-hack) | [download](https://github.com/yoareh/ball3d-hack/releases/download/HostHack/Host.Hack.zip) |
+| Host Hack | 0.1a | 4.01 | [go](https://github.com/yoareh/ball3d-hack/blob/main/README.md#host-hack) | [download](https://github.com/yoareh/ball3d-hack/releases/download/HostHack/Host.Hack.zip) |
 
 ## Host Hack
 **Host Hack** is working on the host servers and other players are going to see your attributes.
